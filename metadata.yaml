@@ -1,0 +1,29 @@
+_repo: The-Ingoldsby-CountryLiterary-Landmarks-of-the--Ingoldsby-Legends-_46385
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46385-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Harper, Charles G. (Charles George)
+    alias: Harper, C. G.
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '39133'
+    url: http://www.gutenberg.org/2009/agents/39133
+description: Illustrated by the author.
+gutenberg_issued: '2014-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46385'
+  lccn: '04026252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kent (England) -- Description and travel'
+- !lcsh 'Ingoldsby, Thomas, 1788-1845. Ingoldsby legends'
+- !lcc 'DA'
+title: 'The Ingoldsby Country: Literary Landmarks of the "Ingoldsby Legends"'
+url: http://www.gutenberg.org/ebooks/46385
